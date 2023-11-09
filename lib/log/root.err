@@ -1,0 +1,216 @@
+
+Fri Nov  3 15:29:44 2023 obj/simul_efun.c
+line 264: Unknown efun: set_light
+
+Fri Nov  3 15:30:49 2023 obj/simul_efun.c
+line 264: Unknown efun: set_light
+line 373: "#pragma strict_types" requires type of function
+line 375: Redeclaration of function set_light.
+
+Fri Nov  3 15:31:13 2023 obj/simul_efun.c
+line 22: Undefined function add_light
+line 269: Unknown efun: set_light
+line 310: Redeclaration of function set_light.
+
+Fri Nov  3 15:31:23 2023 obj/simul_efun.c
+line 22: Undefined function ::add_light
+line 269: Unknown efun: set_light
+line 310: Redeclaration of function set_light.
+
+Fri Nov  3 15:31:34 2023 obj/simul_efun.c
+line 264: Unknown efun: set_light
+
+Fri Nov  3 15:32:29 2023 obj/simul_efun.c
+line 262: Unrecognised # directive
+line 264: Unknown efun: set_light
+
+Fri Nov  3 15:32:34 2023 obj/simul_efun.c
+line 264: Unknown efun: set_light
+
+Fri Nov  3 15:33:54 2023 obj/simul_efun.c
+line 260: Unknown efun: add_light
+line 310: syntax error
+line 315: Return type not matching: "int "
+line 325: Undefined function _get_all_obj
+
+Fri Nov  3 15:34:57 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 951: Too many arguments to this_player
+line 952: Too many arguments to this_player
+line 955: Too many arguments to this_player
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:34:57 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 951: Too many arguments to this_player
+line 952: Too many arguments to this_player
+line 955: Too many arguments to this_player
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:34:57 2023 obj/new_wiz_line.c
+line 168: Too many arguments to this_player
+line 199: Bad argument 2 type to efun move_object()
+line 200: Bad argument 2 type to efun move_object()
+line 206: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/new_wiz_line.c'.
+
+Fri Nov  3 15:34:57 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+*Bad argument 2 to move_object().
+program: obj/daemon/propd.c  object: obj/daemon/propd  line: 14
+function: reset  interactive: none
+
+Fri Nov  3 15:34:57 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+
+Fri Nov  3 15:34:57 2023 obj/daemon/fingerd.c
+line 128: Too many arguments to this_player
+line 128: Too many arguments to this_player
+line 182: Too many arguments to this_player
+line 182: Too many arguments to this_player
+line 190: Too many arguments to this_player
+line 190: Too many arguments to this_player
+*Error in loading object 'obj/daemon/fingerd.c'.
+
+Fri Nov  3 15:34:57 2023 obj/daemon/countryd.c
+line 37: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/countryd.c'.
+
+Fri Nov  3 15:34:57 2023 obj/daemon/maild.c
+line 133: Too many arguments to this_player
+line 133: Too many arguments to this_player
+*Error in loading object 'obj/daemon/maild.c'.
+
+Fri Nov  3 15:34:57 2023 obj/daemon/timed.c
+line 85: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/timed.c'.
+*Wrong permissions for opening file www/quest-list.html for append.
+program: obj/daemon/quest_fixer.c  object: obj/daemon/quest_fixer  line: 120
+function: reset  interactive: none
+
+Fri Nov  3 15:35:06 2023 obj/new_wiz_line.c
+line 168: Too many arguments to this_player
+line 199: Bad argument 2 type to efun move_object()
+line 200: Bad argument 2 type to efun move_object()
+line 206: Bad argument 2 type to efun move_object()
+
+Fri Nov  3 15:36:05 2023 obj/simul_efun.c
+line 261: Undefined function this_interractive
+
+Fri Nov  3 15:36:19 2023 obj/simul_efun.c
+line 261: Unknown efun: this_interractive
+
+Fri Nov  3 15:36:37 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 1247: Bad argument 2 type to efun say()
+line 1257: Bad argument 2 type to efun say()
+line 1291: Bad argument 2 type to efun say()
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:36:37 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 1247: Bad argument 2 type to efun say()
+line 1257: Bad argument 2 type to efun say()
+line 1291: Bad argument 2 type to efun say()
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:36:37 2023 obj/new_wiz_line.c
+line 199: Bad argument 2 type to efun move_object()
+line 200: Bad argument 2 type to efun move_object()
+line 206: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/new_wiz_line.c'.
+
+Fri Nov  3 15:36:37 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+*Bad argument 2 to move_object().
+program: obj/daemon/propd.c  object: obj/daemon/propd  line: 14
+function: reset  interactive: none
+
+Fri Nov  3 15:36:37 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+
+Fri Nov  3 15:36:37 2023 obj/daemon/countryd.c
+line 37: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/countryd.c'.
+*Bad argument 2 to move_object().
+program: obj/daemon/maild.c  object: obj/daemon/maild  line: 19
+function: reset  interactive: none
+
+Fri Nov  3 15:36:37 2023 obj/daemon/timed.c
+line 85: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/timed.c'.
+*Wrong permissions for opening file www/quest-list.html for append.
+program: obj/daemon/quest_fixer.c  object: obj/daemon/quest_fixer  line: 120
+function: reset  interactive: none
+
+Fri Nov  3 15:36:50 2023 obj/new_wiz_line.c
+line 199: Bad argument 2 type to efun move_object()
+line 200: Bad argument 2 type to efun move_object()
+line 206: Bad argument 2 type to efun move_object()
+
+Fri Nov  3 15:37:17 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 1247: Bad argument 2 type to efun say()
+line 1257: Bad argument 2 type to efun say()
+line 1291: Bad argument 2 type to efun say()
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:37:17 2023 obj/living_functions.c
+line 310: Bad argument 2 type to efun say()
+line 332: Bad argument 2 type to efun say()
+line 859: Bad argument 2 type to efun say()
+line 1247: Bad argument 2 type to efun say()
+line 1257: Bad argument 2 type to efun say()
+line 1291: Bad argument 2 type to efun say()
+*Error in loading object 'obj/living_functions.c'.
+
+Fri Nov  3 15:37:17 2023 obj/new_wiz_line.c
+line 199: Bad argument 2 type to efun move_object()
+line 200: Bad argument 2 type to efun move_object()
+line 206: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/new_wiz_line.c'.
+
+Fri Nov  3 15:37:17 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+*Bad argument 2 to move_object().
+program: obj/daemon/propd.c  object: obj/daemon/propd  line: 14
+function: reset  interactive: none
+
+Fri Nov  3 15:37:17 2023 room/room.c
+line 358: Bad argument 2 type to efun say()
+line 597: Bad argument 2 type to efun say()
+*Error in loading object 'room/room.c'.
+
+Fri Nov  3 15:37:17 2023 obj/daemon/countryd.c
+line 37: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/countryd.c'.
+*Bad argument 2 to move_object().
+program: obj/daemon/maild.c  object: obj/daemon/maild  line: 19
+function: reset  interactive: none
+
+Fri Nov  3 15:37:17 2023 obj/daemon/timed.c
+line 85: Bad argument 2 type to efun move_object()
+*Error in loading object 'obj/daemon/timed.c'.
+*Wrong permissions for opening file www/quest-list.html for append.
+program: obj/daemon/quest_fixer.c  object: obj/daemon/quest_fixer  line: 120
+function: reset  interactive: none

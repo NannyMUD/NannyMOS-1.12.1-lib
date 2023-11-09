@@ -1,0 +1,19 @@
+FROM i386/ubuntu
+
+RUN apt-get update -y
+RUN apt-get install -y make bison gcc gdb
+
+RUN useradd -M mud && usermod -L mud && groupadd -f mud && usermod -a -G mud mud
+RUN mkdir /usr/lpmud/ && mkdir /usr/lpmud/bin/ && mkdir /usr/lpmud/driver && mkdir /usr/lpmud/lib && chown -R mud:mud /usr/lpmud/
+
+RUN sysctl -w kernel.core_pattern=/tmp/core-%e.%p.%h.%t
+
+COPY ./src/ /usr/lpmud/driver/
+
+RUN cd /usr/lpmud/driver && make SHELL='sh -x'
+
+COPY ./lib/ /usr/lpmud/lib/
+
+WORKDIR /usr/lpmud/driver/
+CMD tail -f /dev/null
+#CMD make test

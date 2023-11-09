@@ -1,0 +1,22 @@
+Error in loading object 'obj/living_functions.c'.
+Error in loading object 'obj/living_functions.c'.
+Error in loading object 'obj/new_wiz_line.c'.
+Error in loading object 'room/room.c'.
+Bad argument 2 to move_object().
+*Bad argument 2 to move_object().
+
+'          reset' in '    room/adv_guild.c' ('      room/adv_guild')line 42
+'   add_property' in '         std/basic.c' ('      room/adv_guild')line 256
+'          reset' in '  obj/daemon/propd.c' ('    obj/daemon/propd')line 14
+Error in loading object 'room/room.c'.
+Error in loading object 'obj/daemon/countryd.c'.
+Bad argument 2 to move_object().
+*Bad argument 2 to move_object().
+
+'          reset' in '  obj/daemon/maild.c' ('    obj/daemon/maild')line 19
+Error in loading object 'obj/daemon/timed.c'.
+Wrong permissions for opening file www/quest-list.html for append.
+*Wrong permissions for opening file www/quest-list.html for append.
+
+'          reset' in 'obj/daemon/quest_fixer.c' ('obj/daemon/quest_fixer')line 120
+TIMESTAMP: Fri Nov  3 15:37:18 2023
